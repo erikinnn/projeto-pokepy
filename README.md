@@ -107,12 +107,6 @@ pokemon-bot/
 - [python-dotenv](https://pypi.org/project/python-dotenv/) — leitura do `.env`
 - [PokéAPI](https://pokeapi.co) — fonte dos dados
 
-## 🗺️ Ideias para evoluir
-
-- Traduzir tipos e habilidades para português
-- Aceitar a pesquisa direto por mensagem, sem precisar do `/pokemon`
-- Mostrar fraquezas e resistências
-- Hospedar o bot para ficar online 24h
 
 ## 📄 Créditos
 
